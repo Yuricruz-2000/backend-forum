@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1763595937851",
+      "text": "a",
+      "author": "Jorge",
+      "createdAt": "2025-11-19T23:45:37.851Z",
+      "likeCount": 2,
+      "replies": []
+    },
+    {
+      "id": "1763595952445",
+      "text": "gabriel",
+      "author": "Jorge",
+      "createdAt": "2025-11-19T23:45:52.445Z",
+      "likeCount": 2,
+      "replies": []
+    },
+    {
+      "id": "1763596541075",
+      "text": "estou com duvidas relacionado ao meu peso!",
+      "author": "Gabriel Vacirca",
+      "createdAt": "2025-11-19T23:55:41.075Z",
+      "likeCount": 1,
+      "replies": [
+        {
+          "id": "1763596559277",
+          "text": "podemos ajudar com a sua duvida",
+          "createdAt": "2025-11-19T23:55:59.277Z"
+        }
+      ]
+    }
+  ]
+}
